@@ -1,6 +1,6 @@
 app:
   # 将下面的 URL 替换为您自己的 GitHub Pages 地址
-  base_url: "https://joyce677.github.io/TrendRadar"
+  base_url: "https://fluffyfu0323.github.io/TrendRadarSpy"
   version_check_url: "https://raw.githubusercontent.com/sansan0/TrendRadar/refs/heads/master/version"
   show_version_update: true # 控制显示版本更新提示，改成 false 将不接受新版本提示
 
@@ -26,7 +26,7 @@ crawler:
 #   • 适用场景：避免重复信息干扰
 
 report:
-  mode: "incremental" # 可选: "daily"|"incremental"|"current"
+  mode: "daily" # 可选: "daily"|"incremental"|"current"
   rank_threshold: 5 # 排名高亮阈值
 
 notification:
@@ -41,7 +41,7 @@ notification:
     # 如果你想寻求稳定的按时的推送，建议部署在个人的服务器上
     time_range:
       start: "09:00"  # 推送时间范围开始（北京时间）
-      end: "22:00"    # 推送时间范围结束（北京时间）
+      end: "24:00"    # 推送时间范围结束（北京时间）
     once_per_day: false  # 每天在时间范围内只推送一次，如果 false，则时间范围内每次执行都推送一次
     push_record_retention_days: 30  # 推送记录保留天数
 
