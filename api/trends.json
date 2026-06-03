@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-06-03T22:52:45.372894+08:00",
-  "total_titles_processed": 1112,
+  "generated_at": "2026-06-04T02:50:57.922411+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "明日方舟 终末地",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "三角洲明日方舟联动2.0要来了吗",
-          "url": "https://www.douyin.com/hot/2520815",
-          "source": "抖音",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时44分 ~ 05时53分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://fluffyfu0323.github.io/TrendRadarSpy/img/news.jpg"
 }
