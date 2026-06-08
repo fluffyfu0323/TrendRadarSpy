@@ -1,36 +1,7 @@
 {
-  "generated_at": "2026-06-08T19:07:20.301228+08:00",
-  "total_titles_processed": 1084,
+  "generated_at": "2026-06-09T00:03:46.590317+08:00",
+  "total_titles_processed": 306,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "碧蓝航线 鸣潮 战双帕弥什",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "鸣潮赛博朋克联动实况",
-          "url": "https://search.bilibili.com/all?keyword=%E9%B8%A3%E6%BD%AE%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E8%81%94%E5%8A%A8%E5%AE%9E%E5%86%B5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时56分"
-        },
-        {
-          "title": "鸣潮赛博朋克边缘行者联动PV",
-          "url": "https://search.bilibili.com/all?keyword=%E9%B8%A3%E6%BD%AE%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E8%BE%B9%E7%BC%98%E8%A1%8C%E8%80%85%E8%81%94%E5%8A%A8PV",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时09分 ~ 06时10分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://fluffyfu0323.github.io/TrendRadarSpy/img/news.jpg"
 }
