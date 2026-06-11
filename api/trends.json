@@ -1,26 +1,7 @@
 {
-  "generated_at": "2026-06-11T22:43:37.216226+08:00",
-  "total_titles_processed": 1257,
+  "generated_at": "2026-06-12T02:21:25.613092+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "碧蓝航线 鸣潮 战双帕弥什",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "鸣潮赛博朋克联动剧情解读",
-          "url": "https://search.bilibili.com/all?keyword=%E9%B8%A3%E6%BD%AE%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E8%81%94%E5%8A%A8%E5%89%A7%E6%83%85%E8%A7%A3%E8%AF%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时21分 ~ 18时46分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://fluffyfu0323.github.io/TrendRadarSpy/img/news.jpg"
 }
