@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-06-29T05:08:35.900909+08:00",
-  "total_titles_processed": 406,
+  "generated_at": "2026-06-29T07:10:09.743933+08:00",
+  "total_titles_processed": 474,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "明日方舟 终末地",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "明日方舟联动小马宝莉",
+          "url": "https://search.bilibili.com/all?keyword=%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F%E8%81%94%E5%8A%A8%E5%B0%8F%E9%A9%AC%E5%AE%9D%E8%8E%89",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时09分 ~ 07时10分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://fluffyfu0323.github.io/TrendRadarSpy/img/news.jpg"
 }
