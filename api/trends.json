@@ -1,26 +1,7 @@
 {
-  "generated_at": "2026-07-16T23:07:24.025094+08:00",
-  "total_titles_processed": 1623,
+  "generated_at": "2026-07-17T01:24:53.102624+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "剑网3 梦幻西游 阴阳师 燕云十六声 永劫无间 第五人格 蛋仔派对 逆水寒 率土之滨 大话西游 天谕",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "第五人格盗墓笔记联动上线",
-          "url": "https://www.douyin.com/hot/2573112",
-          "source": "抖音",
-          "ranks": [
-            28,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时26分 ~ 20时25分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://fluffyfu0323.github.io/TrendRadarSpy/img/news.jpg"
 }
