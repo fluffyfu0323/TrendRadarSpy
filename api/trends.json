@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-07-22T11:36:09.147667+08:00",
-  "total_titles_processed": 854,
+  "generated_at": "2026-07-22T14:34:12.515164+08:00",
+  "total_titles_processed": 1026,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "剑网3 梦幻西游 阴阳师 燕云十六声 永劫无间 第五人格 蛋仔派对 逆水寒 率土之滨 大话西游 天谕",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "第五人格盗墓笔记联动内录",
+          "url": "https://search.bilibili.com/all?keyword=%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC%E7%9B%97%E5%A2%93%E7%AC%94%E8%AE%B0%E8%81%94%E5%8A%A8%E5%86%85%E5%BD%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时33分 ~ 14时34分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://fluffyfu0323.github.io/TrendRadarSpy/img/news.jpg"
 }
