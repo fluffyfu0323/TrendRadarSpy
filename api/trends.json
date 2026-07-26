@@ -1,26 +1,7 @@
 {
-  "generated_at": "2026-07-26T22:40:10.661528+08:00",
-  "total_titles_processed": 1236,
+  "generated_at": "2026-07-27T00:05:57.986448+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "明日方舟 终末地",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "明日方舟P3R联动",
-          "url": "https://www.douyin.com/hot/2585179",
-          "source": "抖音",
-          "ranks": [
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时23分 ~ 12时32分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://fluffyfu0323.github.io/TrendRadarSpy/img/news.jpg"
 }
