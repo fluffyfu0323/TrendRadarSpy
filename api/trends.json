@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-08-10T21:19:42.996490+08:00",
-  "total_titles_processed": 1565,
+  "generated_at": "2026-08-10T23:04:09.422500+08:00",
+  "total_titles_processed": 1691,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "剑网3 梦幻西游 阴阳师 燕云十六声 永劫无间 第五人格 蛋仔派对 逆水寒 率土之滨 大话西游 天谕",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "阴阳师Vsinger联动PV",
+          "url": "https://search.bilibili.com/all?keyword=%E9%98%B4%E9%98%B3%E5%B8%88Vsinger%E8%81%94%E5%8A%A8PV",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时03分 ~ 23时04分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://fluffyfu0323.github.io/TrendRadarSpy/img/news.jpg"
 }
