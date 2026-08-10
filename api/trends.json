@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T23:04:09.422500+08:00",
-  "total_titles_processed": 1691,
+  "generated_at": "2026-08-11T01:57:04.695264+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,11 @@
           "url": "https://search.bilibili.com/all?keyword=%E9%98%B4%E9%98%B3%E5%B8%88Vsinger%E8%81%94%E5%8A%A8PV",
           "source": "bilibili 热搜",
           "ranks": [
-            14
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[23时03分 ~ 23时04分]"
+          "time_info": "[01时56分 ~ 01时57分]"
         }
       ]
     }
